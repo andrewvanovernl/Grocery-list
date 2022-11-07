@@ -5,10 +5,7 @@
 ![Screenshot (100)](https://user-images.githubusercontent.com/107311665/200228782-e1c18534-315f-4392-b7fd-b1f20205f47a.png)
 
 
-
-
-
-
+This application is a grocery list app in which you can add, remove and change the list.
 
 
 
